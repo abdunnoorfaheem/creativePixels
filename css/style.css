@@ -1,0 +1,68 @@
+/* all common css start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    /* font-family: "Poppins", sans-serif; */
+}
+
+ul ,ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+/* all common css end */
+
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
+/* header style start */
+/* header style end */
