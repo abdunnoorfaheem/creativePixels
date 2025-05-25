@@ -1,5 +1,5 @@
 /* all common css start */
-*{
+* {
     margin: 0;
     padding: 0;
     outline: 0;
@@ -8,26 +8,62 @@
     /* font-family: "Poppins", sans-serif; */
 }
 
-ul ,ol{
+ul,
+ol {
     list-style-type: none;
 }
-a{
+
+a {
     text-decoration: none;
     display: inline-block;
 }
-h1,h2,h3,h4,h5,h6,p{
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
     margin: 0;
     padding: 0;
     line-height: 0.8;
 }
-.container{
+
+.container {
     width: 1320px;
     margin: 0 auto;
 }
+
 /* all common css end */
 
 /* header style start */
+#headerPart {
+    background: #D9D9D9;
+    padding: 32px 0;
+
+}
+
+.headerFlex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li a {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 700;
+   margin-left: 35px;
+}
+
 /* header style end */
+
+
 /* header style start */
 /* header style end */
 /* header style start */
